@@ -3,7 +3,8 @@ let dinos = ["Tyrannosaurus rex", "Velociraptor", "Pterodactyl", "Spinosaurus", 
 
 function Trex(){
   document.getElementById("heading1").innerHTML = "T-rex";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "T-rexs are likly the most famous dinosuars, while they were alive they were the apex predator on land. Today, all most everyone knows what a T-rex and they know what they look like. Tyrannosauruses are amazing consumers and have about 60 teeth, as well, they can consume up to 500 lbs of food at one time.";
+  document.getElementById("Trex").remove();
 }
 
 function Velociraptor(){
