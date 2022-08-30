@@ -9,12 +9,12 @@ function Trex(){
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Behind T-rexs velociraptors are the most known, they are known to be small and fast. Velociraptor a direct translation to speedy thief. They weighted a light 30 lbs at max, typically.";
 }
 
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Pterodactlys are well known as the most popular flying dinosaur as well they are known for their strange spelling. Pterodactyls didn't actuall have feathers, which is something rather suprising. ";
 }
 
 function Spinosaurus(){
