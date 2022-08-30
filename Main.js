@@ -19,7 +19,6 @@ function Velociraptor(){
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
   document.getElementById("anything").innerHTML = "Pterosaurs were an extremely successful group of reptiles. They flourished all through the age of dinosaurs, a period of more than 150 million years. Over time, the earliest pterosaurs—relatively small flying reptiles with sturdy bodies and long tails—evolved into a broad variety of species. Some had long, slender jaws, elaborate head crests, or specialized teeth, and some were extraordinarily large.";
-  document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "pterodactyl.png";
   document.getElementById("img").alt = "pterodactyl";
 }
