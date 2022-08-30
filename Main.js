@@ -10,7 +10,7 @@ function Trex(){
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "Velociraptors were actually feathered animals. They grew up to 100 pounds, about the size of a wolf. And they likely hunted solo—using their claws to clutch rather than slash prey—when they roamed central and eastern Asia between about 74 million and 70 million years ago, during the late Cretaceous period.";
+  document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
