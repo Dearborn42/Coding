@@ -3,9 +3,9 @@ let dinos = ["Tyrannosaurus rex", "Velociraptor", "Pterodactyl", "Spinosaurus", 
 
 function Trex(){
   document.getElementById("heading1").innerHTML = "T-rex";
-  document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "trex.png";
   document.getElementById("img").alt = "T-rex";
+  document.getElementById("anything").innerHTML = "T-rexs are likly the most famous dinosuars, while they were alive they were the apex predator on land. Today, all most everyone knows what a T-rex and they know what they look like. Tyrannosauruses are amazing consumers and have about 60 teeth, as well, they can consume up to 500 lbs of food at one time.";
 }
 
 function Velociraptor(){
@@ -57,5 +57,5 @@ function Ichthyosaur(){
 }
 function Home(){
   document.getElementById("heading1").innerHTML = "History";
-  document.getElementById("anything").innerHTML = "Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals. Dinosaurws were on Earth for about 245 million years until being killed by, what paletologists suspect, was a highly destructive astroid.";
+  document.getElementById("anything").innerHTML = "Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals. Dinosaurs were on Earth for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.";
 }
