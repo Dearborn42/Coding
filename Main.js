@@ -1,2 +1,2 @@
-let dinos = ["T-rex", "Velocirapter", "Pterodactyl", "Spinosarous", "Tri-ceratops", "Ankylosaurus", "Brontosarus", "Ichthyosaur"];
+let dinos = ["Tyrannosaurus rex", "Velociraptor", "Pterodactyl", "Spinosaurus", "Triceratops", "Ankylosaurus", "Brontosaurus", "Ichthyosaur"];
 
