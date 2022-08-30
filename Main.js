@@ -11,7 +11,6 @@ function Trex(){
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
   document.getElementById("anything").innerHTML = "Behind T-rexs velociraptors are the most known, they are known to be small and fast. Velociraptor a direct translation to speedy thief. They weighted a light 30 lbs at max, typically.";
-  document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
@@ -19,7 +18,6 @@ function Velociraptor(){
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
   document.getElementById("anything").innerHTML = "Pterosaurs were an extremely successful group of reptiles. They flourished all through the age of dinosaurs, a period of more than 150 million years. Over time, the earliest pterosaurs—relatively small flying reptiles with sturdy bodies and long tails—evolved into a broad variety of species. Some had long, slender jaws, elaborate head crests, or specialized teeth, and some were extraordinarily large.";
-  document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "pterodactyl.png";
   document.getElementById("img").alt = "pterodactyl";
 }
