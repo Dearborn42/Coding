@@ -10,7 +10,7 @@ function Trex(){
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Velociraptors were actually feathered animals. They grew up to 100 pounds, about the size of a wolf. And they likely hunted solo—using their claws to clutch rather than slash prey—when they roamed central and eastern Asia between about 74 million and 70 million years ago, during the late Cretaceous period.";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
@@ -58,4 +58,6 @@ function Ichthyosaur(){
 function Home(){
   document.getElementById("heading1").innerHTML = "History";
   document.getElementById("anything").innerHTML = "Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals. Dinosaurs were on Earth for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.";
+  document.getElementById("img").src = "dinos.png";
+  document.getElementById("img").alt = "Dinosaurs";
 }
