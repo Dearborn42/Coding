@@ -40,20 +40,20 @@ function Triceratops(){
 
 function Ankylosaurus(){
   document.getElementById("heading1").innerHTML = "Ankylosaurus";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Often compared to an army tank or bus, Ankylosaurus was a heavily armored dinosaur with a large club-like protrusion at the end of its tail. Ankylosaurus means <b> fused lizard </b> in Greek, and it was given that name because bones in its skull and other parts of its body were fused, making the dinosaur extremely rugged.";
   document.getElementById("img").src = "ankylosaurus.png";
   document.getElementById("img").alt = "ankylosaurus";
 }
 
 function Brontosaurus(){
   document.getElementById("heading1").innerHTML = "Brontosaurus";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Brontosaurus is one of the world's most beloved dinosaurs, unusual, perhaps, for a reptile whose validity was doubted for more than 100 years. Brontosaurus was a large sauropod, a group of typically large dinosaurs with long necks and long tails. Brontosaurus had a long, thin neck and a small head adapted for a herbivorous lifestyle, a bulky, heavy torso, and a long, whip-like tail. The various species lived during the Late Jurassic epoch, in the Morrison Formation of what is now North America, and were extinct by the end of the Jurassic.";
   document.getElementById("img").src = "brontosaurus.jpg";
   document.getElementById("img").alt = "brontosaurus";
 }
 function Ichthyosaur(){
   document.getElementById("heading1").innerHTML = "Ichthyosaur";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Ichthyosaurs appear to provide an excellent opportunity to test the extent of predictability of evolutionary processes. They descended from terrestrial reptiles, conquered the open oceans, became agile hunters of fish and squid, and persisted over incredibly long 155 million years. Ichthyosaur are distant relatives of lizards and snakes (lepidosaurs) were the most highly specialized aquatic reptiles, but ichthyosaurs were not dinosaurs.";
   document.getElementById("img").src = "ichthyosaur.png";
   document.getElementById("img").alt = "ichthyosaur";
 }
