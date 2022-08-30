@@ -18,7 +18,7 @@ function Velociraptor(){
 
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
-  document.getElementById("anything").innerHTML = "Pterodactlys are well known as the most popular flying dinosaur as well they are known for their strange spelling. Pterodactyls didn't actuall have feathers, which is something rather suprising. ";
+  document.getElementById("anything").innerHTML = "Pterosaurs were an extremely successful group of reptiles. They flourished all through the age of dinosaurs, a period of more than 150 million years. Over time, the earliest pterosaurs—relatively small flying reptiles with sturdy bodies and long tails—evolved into a broad variety of species. Some had long, slender jaws, elaborate head crests, or specialized teeth, and some were extraordinarily large.";
   document.getElementById("anything").innerHTML = "";
   document.getElementById("img").src = "pterodactyl.png";
   document.getElementById("img").alt = "pterodactyl";
@@ -26,14 +26,14 @@ function Pterodactyl(){
 
 function Spinosaurus(){
   document.getElementById("heading1").innerHTML = "Spinosaurus";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. It possessed a skull 1.75 metres these creatures possessed a long narrow skull resembling that of a crocodile and its teeth straight and conical. In addition, the bones of its skeleton were more compact and denser than those of similar land-dwelling theropods, which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a terrestrial one.";
   document.getElementById("img").src = "spinosaurus.png";
   document.getElementById("img").alt = "spinosaurus";
 }
 
 function Triceratops(){
   document.getElementById("heading1").innerHTML = "Triceratops";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "The Triceratops dinosaur is one of the most famous dinosaurs. It is widely known for its large head with three horns. It is believed that the triceratops lived during a portion of the Cretaceous period around 70 million years ago. Fossils have been found in North America in both the western US and Canada.";
   document.getElementById("img").src = "triceratops.png";
   document.getElementById("img").alt = "triceratops";
 }
