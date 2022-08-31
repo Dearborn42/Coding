@@ -32,7 +32,7 @@ function Spinosaurus(){
 function Triceratops(){
   document.getElementById("heading1").innerHTML = "Triceratops";
   document.getElementById("anything").innerHTML = "The Triceratops dinosaur is one of the most famous dinosaurs. It is widely known for its large head with three horns. It is believed that the triceratops lived during a portion of the Cretaceous period around 70 million years ago. Fossils have been found in North America in both the western US and Canada.";
-  document.getElementById("img").src = "triceratops (2).png";
+  document.getElementById("img").src = "triceratops.png";
   document.getElementById("img").alt = "triceratops";
 }
 
