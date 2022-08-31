@@ -5,33 +5,33 @@ function Trex(){
   document.getElementById("heading1").innerHTML = "T-rex";
   document.getElementById("img").src = "trex.png";
   document.getElementById("img").alt = "T-rex";
-  document.getElementById("anything").innerHTML = "T-rexs are likly the most famous dinosuars, while they were alive they were the apex predator on land. Today, all most everyone knows what a T-rex and they know what they look like. Tyrannosauruses are amazing consumers and have about 60 teeth, as well, they can consume up to 500 lbs of food at one time.";
+  document.getElementById("anything").innerHTML = "T-rexes are likely the most famous dinosaurs. While they were alive, they were the apex predator on land. Tyrannosauruses were amazing consumers and had about 60 teeth, and they could consume up to 500 lbs of food at one time. Today, almost everyone knows what a T-rex is and what it looks like.";
 }
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "Behind T-rexs velociraptors are the most known, they are known to be small and fast. Velociraptor a direct translation to speedy thief. They weighted a light 30 lbs at max, typically.";
+  document.getElementById("anything").innerHTML = "Other than T-rexes, velociraptors are the most known dinosaurs. They are known to be small and fast, and the word velociraptor is a direct translation to speedy thief. They typically weighed a light 30 lbs at max.";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
 
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
-  document.getElementById("anything").innerHTML = "Pterosaurs were an extremely successful group of reptiles. They flourished all through the age of dinosaurs, a period of more than 150 million years. Over time, the earliest pterosaurs—relatively small flying reptiles with sturdy bodies and long tails—evolved into a broad variety of species. Some had long, slender jaws, elaborate head crests, or specialized teeth, and some were extraordinarily large.";
+  document.getElementById("anything").innerHTML = "Pterodactyls were an extremely successful group of reptiles. They flourished all throughout the age of dinosaurs, a period of more than 150 million years. Over time, the earliest pterodactyls — relatively small flying reptiles with sturdy bodies and long tails — evolved into a broad variety of species. Some had long, slender jaws, elaborate head crests, or specialized teeth, and some were extraordinarily large.";
   document.getElementById("img").src = "pterodactyl.png";
   document.getElementById("img").alt = "pterodactyl";
 }
 
 function Spinosaurus(){
   document.getElementById("heading1").innerHTML = "Spinosaurus";
-  document.getElementById("anything").innerHTML = "Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. It possessed a skull 1.75 metres these creatures possessed a long narrow skull resembling that of a crocodile and its teeth straight and conical. In addition, the bones of its skeleton were more compact and denser than those of similar land-dwelling theropods, which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a terrestrial one.";
+  document.getElementById("anything").innerHTML = "The Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. It possessed a long, narrow skull 1.75 meters long, resembling that of a crocodile, and its teeth were straight and conical. In addition, the bones of its skeleton were more compact and denser than those of similar land-dwelling theropods, which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a terrestrial one.";
   document.getElementById("img").src = "spinosaurus.png";
   document.getElementById("img").alt = "spinosaurus";
 }
 
 function Triceratops(){
   document.getElementById("heading1").innerHTML = "Triceratops";
-  document.getElementById("anything").innerHTML = "The Triceratops dinosaur is one of the most famous dinosaurs. It is widely known for its large head with three horns. It is believed that the triceratops lived during a portion of the Cretaceous period around 70 million years ago. Fossils have been found in North America in both the western US and Canada.";
+  document.getElementById("anything").innerHTML = "The Triceratops dinosaur is one of the most famous dinosaurs. It is widely known for its large head with three horns. It is believed that the triceratops lived during a portion of the Cretaceous period around 70 million years ago. Fossils have been found in North America, in both the western US and Canada.";
   document.getElementById("img").src = "triceratops.png";
   document.getElementById("img").alt = "triceratops";
 }
