@@ -46,7 +46,7 @@ function Ankylosaurus(){
 function Brontosaurus(){
   document.getElementById("heading1").innerHTML = "Brontosaurus";
   document.getElementById("anything").innerHTML = "Brontosaurus is one of the world's most beloved dinosaurs, unusual, perhaps, for a reptile whose validity was doubted for more than 100 years. Brontosaurus was a large sauropod, a group of typically large dinosaurs with long necks and long tails. Brontosaurus had a long, thin neck and a small head adapted for a herbivorous lifestyle, a bulky, heavy torso, and a long, whip-like tail. The various species lived during the Late Jurassic epoch, in the Morrison Formation of what is now North America, and were extinct by the end of the Jurassic.";
-  document.getElementById("img").src = "brontosaurus.jpg";
+  document.getElementById("img").src = "brontosaurus.png";
   document.getElementById("img").alt = "brontosaurus";
 }
 function Ichthyosaur(){
