@@ -3,7 +3,7 @@ body {
     background-color:  rgb(60, 97, 5);
     font-family: cursive;
     padding: 1em;
-    color: rgb(255, 255, 255);
+    color: rgb(171, 220, 171);
 }
 
 button{
@@ -13,7 +13,7 @@ button{
         font-size: 1rem;
         font-family: cursive;
         text-align: center;
-        color: rgb(255, 255, 255);
+        color: rgb(171, 220, 171);
         border-radius: 10px;
         background-color: rgb(41, 139, 70);
         background-image: linear-gradient(to top left,
@@ -27,3 +27,5 @@ button{
 button:hover{
     background-color: rgb(48, 164, 83);
 }
+
+
