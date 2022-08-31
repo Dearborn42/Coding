@@ -5,13 +5,12 @@ function Trex(){
   document.getElementById("heading1").innerHTML = "T-rex";
   document.getElementById("img").src = "trex.png";
   document.getElementById("img").alt = "T-rex";
-  document.getElementById("anything").innerHTML = "T-rexes are likly the most famous dinosaurs, while they were alive, they were the apex predator on land. Today, almost everyone knows what a T-rex is and they know what they look like. Tyrannosauruses are amazing consumers and have about 60 teeth, as well, they can consume up to 500 lbs of food at one time.";
+  document.getElementById("anything").innerHTML = "T-rexs are likly the most famous dinosuars, while they were alive they were the apex predator on land. Today, all most everyone knows what a T-rex and they know what they look like. Tyrannosauruses are amazing consumers and have about 60 teeth, as well, they can consume up to 500 lbs of food at one time.";
 }
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "Behind T-rexes, velociraptors are the most well-known dinosaurs, they are known to be small and fast. Velociraptor is a direct translation to speedy thief. They typically weighed a light 30 lbs at max.";
-  document.getElementById("anything").innerHTML = "";
+  document.getElementById("anything").innerHTML = "Behind T-rexs velociraptors are the most known, they are known to be small and fast. Velociraptor a direct translation to speedy thief. They weighted a light 30 lbs at max, typically.";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
@@ -58,14 +57,8 @@ function Ichthyosaur(){
 }
 function Home(){
   document.getElementById("heading1").innerHTML = "History";
-<<<<<<< Updated upstream
-  document.getElementById("anything").innerHTML = "Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals. Dinosaurs were on Earth <br> for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.";
-  document.getElementById("img").src = "dinos2.0.png";
-=======
   document.getElementById("anything").innerHTML =
-   `Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as 
-   the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals.Dinosaurs were on Earth for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.`;
+   `Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals.Dinosaurs were on Earth for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.`;
   document.getElementById("img").src = "dinos.jpg";
->>>>>>> Stashed changes
   document.getElementById("img").alt = "Dinosaurs";
 }
