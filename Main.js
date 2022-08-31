@@ -24,7 +24,7 @@ function Pterodactyl(){
 
 function Spinosaurus(){
   document.getElementById("heading1").innerHTML = "Spinosaurus";
-  document.getElementById("anything").innerHTML = "The Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. It possessed a long, narrow skull 1.75 meters long, resembling that of a crocodile, and its teeth were straight and conical. In addition, the bones of its skeleton were more compact and denser than those of similar land-dwelling theropods, which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a terrestrial one.";
+  document.getElementById("anything").innerHTML = "The Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. It possessed a long, narrow skull 1.75 meters long, resembling that of a crocodile, and its teeth were straight and conical. In addition, the bones of its skeleton were more compact and dense than those of similar land-dwelling dinosaurs, which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a land one.";
   document.getElementById("img").src = "spinosaurus.png";
   document.getElementById("img").alt = "spinosaurus";
 }
@@ -45,20 +45,20 @@ function Ankylosaurus(){
 
 function Brontosaurus(){
   document.getElementById("heading1").innerHTML = "Brontosaurus";
-  document.getElementById("anything").innerHTML = "Brontosaurus is one of the world's most beloved dinosaurs, unusual, perhaps, for a reptile whose validity was doubted for more than 100 years. Brontosaurus was a large sauropod, a group of typically large dinosaurs with long necks and long tails. Brontosaurus had a long, thin neck and a small head adapted for a herbivorous lifestyle, a bulky, heavy torso, and a long, whip-like tail. The various species lived during the Late Jurassic epoch, in the Morrison Formation of what is now North America, and were extinct by the end of the Jurassic.";
+  document.getElementById("anything").innerHTML = "The Brontosaurus is one of the world's most beloved dinosaurs, unusual, perhaps, for a reptile whose validity was doubted for more than 100 years. The Brontosaurus was part of a group of typically large dinosaurs with long necks and long tails. It had a long, thin neck and a small head adapted for a vegetarian lifestyle, a bulky, heavy torso, and a long, whip-like tail. The various species lived during the Late Jurassic epoch and were extinct by the end of the Jurassic.";
   document.getElementById("img").src = "brontosaurus.png";
   document.getElementById("img").alt = "brontosaurus";
 }
 function Ichthyosaur(){
   document.getElementById("heading1").innerHTML = "Ichthyosaur";
-  document.getElementById("anything").innerHTML = "Ichthyosaurs appear to provide an excellent opportunity to test the extent of predictability of evolutionary processes. They descended from terrestrial reptiles, conquered the open oceans, became agile hunters of fish and squid, and persisted over incredibly long 155 million years. Ichthyosaur are distant relatives of lizards and snakes (lepidosaurs) were the most highly specialized aquatic reptiles, but ichthyosaurs were not dinosaurs.";
+  document.getElementById("anything").innerHTML = "Ichthyosaurs appear to provide an excellent opportunity to test the extent of predictability of evolutionary processes. They descended from land-based reptiles, conquered the open oceans, became agile hunters of fish and squid, and persisted over incredibly long 155 million years. Ichthyosaur are distant relatives of lizards and snakes. They were the most highly specialized aquatic reptiles in the past, but ichthyosaurs were not dinosaurs.";
   document.getElementById("img").src = "ichthyosaur.png";
   document.getElementById("img").alt = "ichthyosaur";
 }
 function Home(){
   document.getElementById("heading1").innerHTML = "History";
   document.getElementById("anything").innerHTML =
-   `Dinosaurs are one of the greatest known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, during their time and still in history are some of the scariest and most dangerous animals. Dinosaurs were on Earth for about 245 million years until being killed by, what paleontologists suspect, was a highly destructive asteroid.`;
+   `Dinosaurs are some of the most well-known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, both during their time and in history, were some of the scariest and most dangerous animals. They were on Earth for about 245 million years before being killed by what paleontologists suspect was a highly destructive asteroid.`;
   document.getElementById("img").src = "dinos2.0.png";
   document.getElementById("img").alt = "Dinosaurs";
 }
