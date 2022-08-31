@@ -58,7 +58,7 @@ function Ichthyosaur(){
 function Home(){
   document.getElementById("heading1").innerHTML = "History";
   document.getElementById("anything").innerHTML =
-   `Dinosaurs are some of the most well-known reptiles of all time. They lived about 230 mya (million years ago) during a period known as the Mesozoic Era. Dinosaurs, both during their time and in history, were some of the scariest and most dangerous animals. They were on Earth for about 245 million years before being killed by what paleontologists suspect was a highly destructive asteroid.`;
+   ` Dinosaurs are some of the most well-known reptiles of all time. They lived about 230 mya (million years ago) during a period known as <br>the Mesozoic Era. Dinosaurs, both during their time and in history, were some of the scariest and most dangerous animals. They<br> were on Earth for about 245 million years before being killed by what paleontologists suspect was a highly destructive asteroid. `;
   document.getElementById("img").src = "dinos2.0.png";
   document.getElementById("img").alt = "Dinosaurs";
 }
