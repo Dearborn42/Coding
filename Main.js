@@ -1,4 +1,4 @@
-let dinos = ["Tyrannosaurus rex", "Velociraptor", "Pterodactyl", "Spinosaurus", "Triceratops", "Ankylosaurus", "Brontosaurus", "Ichthyosaur"];
+let dinos = ["Tyrannosaurus rex", "Velociraptor", "Pterodactyl", "Spinosaurus", "Triceratops", "Ankylosaurus", "Brontosaurus", "Ichthyosaur"];// Identifies the strings and the brakets and then tells them what to do in the functions below.
 
 
 function Trex(){
@@ -7,6 +7,7 @@ function Trex(){
   document.getElementById("img").alt = "T-rex";
   document.getElementById("anything").innerHTML = "T-rexes are likely the most famous dinosaurs. While they were alive, they were the apex predator on land. <br>Tyrannosauruses were amazing consumers and had about 60 teeth, and they could consume up to 500 lbs of food at one time. <br>Today, almost everyone knows what a T-rex is and what it looks like.";
 }
+//Replaces original heading, image, and text with the T-rex heading, image, and text
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
@@ -14,6 +15,7 @@ function Velociraptor(){
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
+//Replaces original heading, image, and text with the Velociraptor heading, image, and text
 
 function Pterodactyl(){
   document.getElementById("heading1").innerHTML = "Pterodactyl";
@@ -21,6 +23,7 @@ function Pterodactyl(){
   document.getElementById("img").src = "pterodactyl.png";
   document.getElementById("img").alt = "pterodactyl";
 }
+//Replaces original heading, image, and text with the Pterodactyl, image, and text
 
 function Spinosaurus(){
   document.getElementById("heading1").innerHTML = "Spinosaurus";
@@ -28,6 +31,7 @@ function Spinosaurus(){
   document.getElementById("img").src = "spinosaurus.png";
   document.getElementById("img").alt = "spinosaurus";
 }
+//Replaces original heading, image, and text with the Spinosaurars heading, image, and text
 
 function Triceratops(){
   document.getElementById("heading1").innerHTML = "Triceratops";
@@ -35,7 +39,7 @@ function Triceratops(){
   document.getElementById("img").src = "triceratops.png";
   document.getElementById("img").alt = "triceratops";
 }
-
+// this process is repeatted throughout this js page
 function Ankylosaurus(){
   document.getElementById("heading1").innerHTML = "Ankylosaurus";
   document.getElementById("anything").innerHTML = "Often compared to an army tank or bus, Ankylosaurus was a heavily armored dinosaur with a large club-like protrusion at the end of its tail. <br>Ankylosaurus means fused lizard in Greek, and it was given that name because bones in its skull and other parts of its body were fused, <br>making the dinosaur extremely rugged.";
