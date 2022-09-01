@@ -38,7 +38,7 @@ function Triceratops(){
 
 function Ankylosaurus(){
   document.getElementById("heading1").innerHTML = "Ankylosaurus";
-  document.getElementById("anything").innerHTML = "Often compared to an army tank or bus, Ankylosaurus was a heavily armored dinosaur with a large club-like protrusion at the end of its tail. <br>Ankylosaurus means <b> fused lizard </b> in Greek, and it was given that name because bones in its skull and other parts of its body were fused, <br>making the dinosaur extremely rugged.";
+  document.getElementById("anything").innerHTML = "Often compared to an army tank or bus, Ankylosaurus was a heavily armored dinosaur with a large club-like protrusion at the end of its tail. <br>Ankylosaurus means fused lizard in Greek, and it was given that name because bones in its skull and other parts of its body were fused, <br>making the dinosaur extremely rugged.";
   document.getElementById("img").src = "ankylosaurus.png";
   document.getElementById("img").alt = "ankylosaurus";
 }
