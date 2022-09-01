@@ -10,7 +10,7 @@ function Trex(){
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "Other than T-rexes, velociraptors are the most known dinosaurs. They are known to be small and fast,<br> and the word velociraptor is a direct translation to speedy thief. They typically weighed a light 30 lbs at max.";
+  document.getElementById("anything").innerHTML = "Velociraptors are the most well-known dinosaurs, other than T-rexes. They are known to be small and fast,<br> and the word velociraptor is a direct translation to speedy thief. They typically weighed a light 30 lbs at max.";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
