@@ -10,7 +10,7 @@ function Trex(){
 
 function Velociraptor(){
   document.getElementById("heading1").innerHTML = "Velociraptor";
-  document.getElementById("anything").innerHTML = "Other than T-rexes, velociraptors are the most known dinosaurs. <br>They are known to be small and fast, and the word velociraptor is a direct translation to speedy thief. <br>They typically weighed a light 30 lbs at max.";
+  document.getElementById("anything").innerHTML = "Velociraptors are the most well-known dinosaurs, other than T-rexes. They are known to be small and fast,<br> and the word velociraptor is a direct translation to speedy thief. They typically weighed a light 30 lbs at max.";
   document.getElementById("img").src = "velociraptor.png";
   document.getElementById("img").alt = "velociraptor";
 }
@@ -24,7 +24,7 @@ function Pterodactyl(){
 
 function Spinosaurus(){
   document.getElementById("heading1").innerHTML = "Spinosaurus";
-  document.getElementById("anything").innerHTML = "The Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. <br>It possessed a long, narrow skull 1.75 meters long, resembling that of a crocodile, and its teeth were straight and conical. <br>In addition, the bones of its skeleton were more compact and dense than those of similar land-dwelling dinosaurs, <br>which allowed it greater control over its buoyancy underwater; <br>this characteristic has led some researchers to argue that Spinosaurus was primarily an aquatic predator rather than a land one.";
+  document.getElementById("anything").innerHTML = "The Spinosaurus, which was longer and heavier than Tyrannosaurus, is the largest known carnivorous dinosaur. <br>It possessed a long, narrow skull 1.75 meters long, resembling that of a crocodile, and its teeth were straight and conical. <br>In addition, the bones of its skeleton were more compact and dense than those of similar land-dwelling dinosaurs, <br>which allowed it greater control over its buoyancy underwater; this characteristic has led some researchers<br> to argue that Spinosaurus was primarily an aquatic predator rather than a land one.";
   document.getElementById("img").src = "spinosaurus.png";
   document.getElementById("img").alt = "spinosaurus";
 }
